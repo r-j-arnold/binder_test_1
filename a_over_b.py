@@ -7,3 +7,4 @@ b = 5
 print(a/b)
 
 print(np.mean(np.array([1,2,3,4]))) 
+print(np.quantile(np.array([1,2,3,4]), 0.3)) 
